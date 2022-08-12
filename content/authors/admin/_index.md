@@ -68,4 +68,4 @@ highlight_name: true
 ---
 
 I am a first-year PhD candidate in Business Economics at Insper Institute of Education and Research, with barchelor's degree in Economic Sciences.
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
