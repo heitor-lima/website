@@ -12,7 +12,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-# date: '2013-07-01T00:00:00Z'
+date: '2022-08-01T00:00:00Z'
 # doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -31,7 +31,7 @@ publication_types: ['0']
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This document covers the content of each class of the first microeconomics course of Insper's PhD in Economics, which was taught by Rodrigo Soares in 2022. In this particular period, the course was assisted by Stéphanie Shinoki. I wrote it to have a better grasp on the concepts, and help others to achieve the same. Throughout the document, I'll refer to the basic bibliography as prof Soares does, that is, DM stands for Deaton and Muellbauer (1980), JR stands for Jehle and Reny (2001), MWG stands for Mas-Collel et al (1995), and TR stands for Tirole (1988). If you find anything wrong or inconsistent, please let me know.
 
 tags: []
 
@@ -78,12 +78,4 @@ image:
 # slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
