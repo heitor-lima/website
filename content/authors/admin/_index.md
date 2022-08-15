@@ -25,12 +25,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Business Economics
+    - course: PhD, Business Economics
       institution: Insper Institute of Education and Research
       year: In Progress
-    - course: BSc in Artificial Intelligence
+    - course: BA, Economic Sciences
       institution: Federal University of ABC
       year: 2021
+    - course: Technologist, Business IT
+      institution: Technology College of Mauá
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -56,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
