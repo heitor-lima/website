@@ -79,5 +79,14 @@ image:
 ---
 
 ## Abstract
-This document covers the content of each class of the first microeconomics course of Insper's PhD in Economics, which was taught by Rodrigo Soares in 2022. In this particular period, the course was assisted by Stéphanie Shinoki. I wrote it to have a better grasp on the concepts, and help others to achieve the same. Throughout the document, I'll refer to the basic bibliography as prof Soares does, that is, DM stands for Deaton and Muellbauer (1980), JR stands for Jehle and Reny (2001), MWG stands for Mas-Collel et al (1995), and TR stands for Tirole (1988). If you find anything wrong or inconsistent, please let me know.
+This document covers the content of each class of the first microeconomics course of Insper's PhD in Economics, which was taught by Rodrigo Soares in 2022. In this particular period, the course was assisted by Stéphanie Shinoki. I wrote it to have a better grasp on the concepts, and help others to achieve the same. Throughout the document, I'll refer to the basic bibliography as Prof. Soares does, that is,
+
+\begin{itemize}
+  \item DM stands for Deaton and Muellbauer (1980);
+  \item JR stands for Jehle and Reny (2001);
+  \item MWG stands for Mas-Collel et al (1995);
+  \item and TR stands for Tirole (1988).
+\end{itemize}
+
+If you find anything wrong or inconsistent, please let me know (heitoraol@al.insper.edu.br).
 
