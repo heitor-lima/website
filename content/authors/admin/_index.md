@@ -32,7 +32,7 @@ education:
       institution: Federal University of ABC
       year: 2021
     - course: Technologist, Business IT
-      institution: Technology College of Mauá
+      institution: Technology College (FATEC) of Mauá
       year: 2016
 
 # Social/Academic Networking
