@@ -33,7 +33,7 @@ abstract: This document covers the content of each class of the first microecono
 # Summary. An optional shortened abstract.
 # summary: aaaaa
 
-# tags: []
+tags: []
 
 # Display this page in the Featured widget?
 featured: true
