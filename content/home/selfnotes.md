@@ -17,7 +17,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - publication
+      - selfnote
     tag: ''
     category: ''
     publication_type: ''
