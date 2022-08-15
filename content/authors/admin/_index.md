@@ -14,7 +14,7 @@ organizations:
     url: https://www.insper.edu.br/pos-graduacao/doutorado/economia-dos-negocios/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include empirical industrial organization, applied micreconomics, and strategic management.
 
 # Interests to show in About widget
 interests:
