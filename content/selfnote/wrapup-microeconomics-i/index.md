@@ -87,5 +87,5 @@ This document covers the content of each class of the first microeconomics cours
 - MWG stands for Mas-Collel et al (1995);
 - and TR stands for Tirole (1988).
 
-If you find anything wrong or inconsistent, please let me know.
+**This document is a work in progress!** If you find anything wrong or inconsistent, please let me know.
 
