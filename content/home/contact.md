@@ -35,8 +35,8 @@ content:
     country: Brazil
     country_code: BR
   coordinates:
-    latitude: '-23.598572210097274'
-    longitude: '-46.67614604839828'
+    latitude: '-23.59859'
+    longitude: '-46.67669'
   # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
   # office_hours:
   #  - 'Monday 10:00 to 13:00'
