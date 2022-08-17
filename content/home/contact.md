@@ -28,10 +28,10 @@ content:
   email: heitoraol@al.insper.edu.br
   # phone: 888 888 88 88
   address:
-    street: 300 Quatá
-    city: São Paulo
+    street: 300 Quata
+    city: Sao Paulo
     region: SP
-    postcode: '04546-042'
+    postcode: '04546042'
     country: Brazil
     country_code: BR
   coordinates:
