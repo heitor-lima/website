@@ -20,7 +20,6 @@ bio: My research interests include empirical industrial organization, applied mi
 interests:
   - Empirical Industrial Organization
   - Applied Microeconomics
-  - Strategic Management
 
 # Education to show in About widget
 education:
